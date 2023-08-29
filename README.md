@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdul0804
-- 👀 I’m interested in Software Devloping
+- 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on App creation
  
